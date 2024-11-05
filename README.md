@@ -1,100 +1,74 @@
-# Welcome to my Portfolio 👋
+# Welcome to My Portfolio 👋
 
 ## About Me
 
-Hello! I'm **Abdelrahman Mahmoud**, an experienced **ERP Project Manager**, **Tech Specialist**, and **Entrepreneurship Trainer**. With a robust background in implementing and leading Odoo ERP projects, I bring tailored solutions to industries such as real estate, manufacturing, and e-commerce. I am passionate about staying at the forefront of technological innovation and am currently expanding my skill set by learning **blockchain** and **AI technology**.
+Hello! I'm **Abdelrahman Mahmoud**, an experienced **ERP Project Manager**, **Tech Specialist**, and **Entrepreneurship Trainer**. With over 5 years of expertise across diverse industries, I have successfully implemented and managed complex ERP projects, mainly focusing on Odoo solutions. I am known for my strategic approach, ability to streamline operations, and team leadership. My current passion includes expanding my technical expertise in **blockchain** and **AI technology**.
 
 ---
 
-## Professional Highlights
+## Work Experience
 
-- **ERP Expertise**: Successfully led and implemented Odoo ERP systems for various industries, including high-profile projects for:
-  - **Strata Manufacturing**: Large-scale HR project involving 600 users.
-  - **Education and Human Resources Council (EHRC)**: Full ERP system implementation.
-  - **Synergy (Oil & Gas)**: HR and Accounting focus.
-  - **Naqwa**: Comprehensive ERP system with POS.
-  - **7D (E-commerce)**: High-paced HR project in Kuwait.
-  - **Alqudra**: Full ERP implementation with custom solutions for a sports manpower company.
-  - **Diar (Engineering and Construction)** and **ELomda for Coffee (Retail)** in Egypt.
+### Head of Operations & Project Manager, Odoo ERP
+**Infolab Global, Dubai (July 2022 – Present)**
+- Led multi-phase ERP projects across HR, Real Estate, and Accounting modules, improving client workflows and team productivity.
+- Collaborated with cross-functional teams to align Odoo configurations with business objectives, achieving up to 25% reduction in implementation time.
+- Provided strategic insights and custom solutions for diverse sectors, ensuring on-budget, within-scope project delivery.
 
-- **Entrepreneurship Trainer**: Conducted over **500 hours of training** for approximately **400 trainees**, offering mentorship in business planning, finance, and marketing.
+### ERP Consultant
+**Promate Technologies, Dubai (May 2022 – June 2022)**
+- Conducted comprehensive ERP requirements analysis and collaborated with Odoo partners to design tailored solutions.
+- Oversaw end-to-end project execution, meeting deadlines and maintaining high client satisfaction.
 
-- **Tech Enthusiast**: Currently learning **blockchain** and **AI technology** to merge new innovations with ERP systems for future-ready solutions.
+### Odoo Implementer
+**Ever Business Solutions, Dubai (July 2021 – April 2022)**
+- Managed complete Odoo system implementations, including advanced configurations.
+- Led successful go-live transitions through gap analysis, data collection, installation, and training.
 
----
-
-## What I Do
-
-- **ERP Implementation**: Expert in delivering comprehensive Odoo solutions tailored to business needs.
-- **Project Management**: Proficient in strategic planning, leading teams, and ensuring successful project execution.
-- **Training & Mentoring**: Passionate about empowering future entrepreneurs and teams through actionable guidance.
-- **Tech Integration**: Experienced in integrating various platforms, including successful integrations of Zoho with Odoo.
+### Chief Executive Officer
+**Byootan, Dubai (February 2016 – May 2021)**
+- Led entrepreneurial growth strategies and developed programs that helped over 400 trainees start their ventures.
+- Conducted over 500 hours of training focused on business planning, finance, and marketing.
 
 ---
 
 ## Projects Portfolio
 
-### 1. [Strata Manufacturing](#)
-   - **Industry**: Manufacturing
-   - **Overview**: Full HR system with 600+ users, fully customized for the UAE.
-   - **Role**: Implementer and support lead.
-   - **Technologies Used**: Odoo 13 EE
+### Key Projects
+- **Strata Project (Al-Ain, UAE)**: Led a comprehensive HR project for a manufacturing company with ~600 users, utilizing Odoo 13 EE.
+- **EHRC (Government Project, UAE)**: Implemented a full ERP system covering HR.
+- **Synergy (Kuwait Oil & Gas)**: Focused on HR and Accounting ERP solutions.
+- **7D (Kuwait E-commerce)**: Implemented an HR-focused project with intense deadlines.
+- **Injaz Integration**: Led Zoho-to-Odoo integration, enhancing data flow and system efficiency.
+- **Naqwa (UAE)**: Full ERP implementation including POS.
+- **Byootan**: Conducted extensive training sessions, mentoring startups and guiding them in strategic growth.
 
-### 2. [EHRC (Government Project)](#)
-   - **Industry**: Government/Education
-   - **Overview**: Full ERP system, including HR.
-   - **Role**: Part of the implementation team, handling stakeholder challenges.
-   - **Technologies Used**: Odoo
+---
 
-### 3. [7D (Kuwait E-commerce)](#)
-   - **Industry**: E-commerce
-   - **Overview**: HR project with tight deadlines and daily client interaction.
-   - **Role**: Main implementer.
-   - **Technologies Used**: Odoo
+## Skills and Expertise
 
-### 4. [Alqudra (UAE Sports Manpower)](#)
-   - **Industry**: Sports
-   - **Overview**: Full ERP system with significant customization.
-   - **Role**: Main implementer and lead communicator.
-   - **Technologies Used**: Odoo
-
-### 5. [Synergy (Kuwait Oil & Gas)](#)
-   - **Industry**: Oil & Gas
-   - **Overview**: HR and Accounting project.
-   - **Role**: Main HR implementer.
-   - **Technologies Used**: Odoo
-
-### 6. [Naqwa (UAE)](#)
-   - **Industry**: Various
-   - **Overview**: Full ERP system including POS.
-   - **Role**: ERP implementer.
-   - **Technologies Used**: Odoo
-
-### 7. [Injaz Integration Project](#)
-   - **Industry**: General Business
-   - **Overview**: Integrated Zoho with Odoo.
-   - **Role**: Implementation lead for integration.
-   - **Technologies Used**: Odoo, Zoho
-
-### 8. [Entrepreneurship Projects with Byootan](#)
-   - **Overview**: Delivered training sessions and mentorship, supporting startups in various business aspects.
+- **ERP Implementation & Odoo Expertise**
+- **Project Management & Agile Methodologies**
+- **Business Analysis & Process Optimization**
+- **Team Leadership & Stakeholder Engagement**
+- **Problem-Solving & Decision-Making**
+- **Adaptability & Strategic Planning**
 
 ---
 
 ## Current Focus
 
-I am currently immersing myself in **blockchain** and **AI technology**, aiming to integrate these advancements into my ERP and project management expertise to craft forward-thinking solutions.
+I am currently exploring **blockchain** and **AI technology** to integrate these innovative areas into my ERP and project management solutions, ensuring I stay at the cutting edge of technological advancements.
 
 ---
 
 ## Connect with Me
 
-- 📧 Email: abdelrahman.byootan@outlook.com
+- 📧 Email: abdelrahman.odoo@outlook.com
 - 📱 Phone: +971 507027944
 - 🔗 [LinkedIn](https://linkedin.com/in/abdelrahman-mahmoud-35aa0016a)
 
-Thank you for visiting my GitHub portfolio! I look forward to collaborating and sharing insights with you.
+Thank you for visiting my GitHub portfolio! Feel free to reach out for collaboration, discussions, or project opportunities.
 
 ---
 
-Feel free to reach out for collaboration, discussions, or project opportunities!
+Looking forward to connecting and collaborating!
