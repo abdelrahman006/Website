@@ -1,4 +1,4 @@
-# Welcome to My GitHub Portfolio 👋
+# Welcome to my Portfolio 👋
 
 ## About Me
 
