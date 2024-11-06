@@ -167,8 +167,135 @@ Welcome to my portfolio! This  presents a collection of ERP projects I've implem
    - **Modules**: Sales, Inventory, Accounting
    - **Challenges and Solutions**: Addressed complex inventory tracking through custom workflows and reporting tools.
    - **Outcome**: Enhanced trading operations with better inventory tracking and streamlined sales processes.
+  
+
+2. **Cropses**
+   - **Industry**: Agriculture
+   - **Website**: [Cropses](http://www.cropses.ae)
+   - **Overview**: Implemented an ERP system to manage agricultural processes, including crop tracking and supply chain management.
+   - **Key Responsibilities**: Customized modules to fit the unique needs of agricultural operations; coordinated with stakeholders to ensure smooth data migration and system training.
+   - **Technologies Used**: Odoo, Python
+   - **Modules**: Inventory, Purchase, Sales
+   - **Challenges and Solutions**: Managed the integration of seasonal supply chain variations into the ERP system; developed specific reporting features for crop yield and distribution.
+   - **Outcome**: Improved supply chain transparency and operational efficiency in agriculture management.
+
+3. **Purple**
+   - **Industry**: Payment Processing
+   - **Website**: [Purple](http://www.purplepay.ae)
+   - **Overview**: Deployed an ERP solution focusing on streamlining payment processing and financial tracking.
+   - **Key Responsibilities**: Implemented financial and sales modules; customized payment workflow automation to optimize financial processes.
+   - **Technologies Used**: Odoo, Python
+   - **Modules**: Accounting, Sales
+   - **Challenges and Solutions**: Faced challenges with reconciling high transaction volumes; resolved through tailored data processing scripts.
+   - **Outcome**: Enhanced financial oversight and payment process efficiency, contributing to more accurate financial reporting.
+
+4. **FPS (Facilities Management)**
+   - **Industry**: Facilities Management
+   - **Website**: [FPS](http://www.fps.ae)
+   - **Overview**: Developed an ERP system for managing facility operations, focusing on asset management and service scheduling.
+   - **Key Responsibilities**: Configured and deployed asset management and maintenance modules; provided training to ensure the team adopted new features effectively.
+   - **Technologies Used**: Odoo, Python
+   - **Modules**: Asset Management, Maintenance, HR
+   - **Challenges and Solutions**: Managed challenges related to asset tracking and service requests by designing user-friendly interfaces and automated reminders.
+   - **Outcome**: Streamlined asset management and improved service scheduling, leading to higher operational efficiency.
+
+5. **MSZ (Accounting & Business Setup)**
+   - **Industry**: Accounting & Business Services
+   - **Website**: [MSZ](http://www.mszaccounting.ae)
+   - **Overview**: Implemented an ERP system to streamline accounting and business setup processes, enhancing workflow management and reporting capabilities.
+   - **Key Responsibilities**: Led the configuration of accounting modules and automated business setup processes; conducted user training for financial reporting and data management.
+   - **Technologies Used**: Odoo, Python
+   - **Modules**: Accounting, CRM
+   - **Challenges and Solutions**: Addressed challenges with real-time data integration by developing synchronized data flows.
+   - **Outcome**: Boosted efficiency in financial reporting and improved data accuracy, contributing to better business decision-making.
 
 ---
+
+### 🇰🇼 Kuwait
+
+#### 🛒 E-commerce
+1. **7D**
+   - **Industry**: E-commerce
+   - **Website**: [7D](http://www.7dcommerce.com)
+   - **Overview**: Implemented a customized HR solution to support 7D’s fast-paced e-commerce environment, ensuring efficient workforce management.
+   - **Key Responsibilities**: Acted as the primary implementer, managing the configuration and deployment of the HR system; maintained close engagement with the client for daily support.
+   - **Technologies Used**: Odoo, Python
+   - **Modules**: Custom HR, Attendance, Payroll
+   - **Challenges and Solutions**: The project’s highly compressed timeline required adaptive problem-solving and continuous client communication.
+   - **Outcome**: Delivered a robust HR system under tight deadlines, supporting 7D’s operations with enhanced employee management capabilities.
+
+#### 🛢️ Oil and Gas
+1. **Synergy**
+   - **Industry**: Oil and Gas
+   - **Website**: [Synergy](http://www.synergyoilandgas.com)
+   - **Overview**: Focused on implementing HR and accounting solutions for Synergy, aligning complex HR workflows with financial operations.
+   - **Key Responsibilities**: Led the implementation of the HR module, ensuring integration with the accounting system for seamless data flow.
+   - **Technologies Used**: Odoo, Python
+   - **Modules**: Custom HR, Accounting
+   - **Challenges and Solutions**: Addressed integration complexities by customizing workflows and creating training sessions to facilitate user adoption.
+   - **Outcome**: Enhanced HR management and improved payroll integration with accounting, optimizing HR and financial operations.
+
+#### 🍎 Nutrition and Health
+1. **Wolf Nutrition**
+   - **Industry**: Nutrition and Health
+   - **Website**: [Wolf Nutrition](http://www.wolfnutrition.com)
+   - **Overview**: Implemented a tailored HR system to meet the needs of Wolf Nutrition, focusing on efficient employee management and compliance with local regulations.
+   - **Key Responsibilities**: Served as the main implementer, leading the configuration and customization of the HR module; coordinated with stakeholders to ensure that the solution met business requirements.
+   - **Technologies Used**: Odoo, Python
+   - **Modules**: Custom HR
+   - **Challenges and Solutions**: Managed complex HR policy implementations by creating adaptable workflows and custom reporting features.
+   - **Outcome**: Delivered a user-friendly HR system that streamlined employee management and met compliance needs.
+
+---
+
+### 🇪🇬 Egypt
+
+#### 🏗️ Engineering and Construction
+1. **Diar**
+   - **Industry**: Engineering and Construction
+   - **Website**: [Diar](http://www.diargroup.com)
+   - **Overview**: Implemented a comprehensive ERP system tailored to the construction industry, focusing on project management and HR.
+   - **Key Responsibilities**: Managed the project from implementation to customization, ensuring all construction-specific requirements were met; integrated project management tools with accounting and HR functions.
+   - **Technologies Used**: Odoo, Python
+   - **Modules**: Project Management, HR, Accounting, Construction (custom), Sales, Purchase, Inventory
+   - **Challenges and Solutions**: Adapted the project management module to handle the complexities of construction timelines and resource allocation.
+   - **Outcome**: Enhanced project tracking and operational efficiency, leading to better project completion rates.
+
+#### ☕ Retail and Sales
+1. **ELomda for Coffee**
+   - **Industry**: Retail (Coffee Business)
+   - **Website**: [ELomda for Coffee](http://www.elomdacoffee.com)
+   - **Overview**: Implemented a custom POS system to enhance sales operations and improve customer service for a coffee business.
+   - **Key Responsibilities**: Customized and configured the POS system to align with client-specific needs.
+   - **Technologies Used**: Odoo, Python
+   - **Modules**: Custom POS, Sales, Accounting, Inventory
+   - **Challenges and Solutions**: Created a user-friendly POS interface that streamlined sales transactions.
+   - **Outcome**: Improved sales efficiency and customer satisfaction, leading to an increase in repeat business.
+
+---
+
+
+### 🏢 Byootan Projects
+
+#### Entrepreneurship Training and Mentorship
+1. **Byootan Entrepreneurship Programs**
+   - **Industry**: Education & Entrepreneurship
+   - **Overview**: Conducted comprehensive entrepreneurship training and mentorship for startups, supporting over 400 trainees with 500+ hours of sessions.
+   - **Key Responsibilities**: Delivered training on business planning, finance, and marketing; provided one-on-one mentorship to guide startups through critical business challenges.
+   - **Outcome**: Empowered numerous trainees with skills in strategic business planning and entrepreneurial growth, leading to successful project outcomes.
+
+#### Corporate Training with P&G
+1. **P&G Summer Training for Employees and Families**
+   - **Industry**: Corporate Training
+   - **Overview**: Partnered with P&G to deliver summer training sessions tailored for both employees and their families, focusing on skill-building and engagement.
+   - **Key Responsibilities**: Designed and facilitated engaging training modules; ensured a dynamic learning experience for participants, enhancing both professional and personal development.
+   - **Outcome**: Achieved high engagement and positive feedback from employees and their families, contributing to an enriched work-life balance.
+
+
+Thank you for exploring my portfolio! Each project showcases a commitment to innovation, customization, and efficiency in ERP solutions.
+
+
+
 
 
 ---
