@@ -317,6 +317,130 @@ I am currently immersed in learning **blockchain** and **AI technology**, integr
 
 ---
 
+
+## 📜 Professional Testimonials
+
+### ⭐ **Ahmed Gaber**  
+**📝 Role:** Product Manager | AI | Agile | CMA | CSPO  
+**📅 Date:** November 5, 2024  
+**🧑 Relationship:** Managed Abdelrahman directly  
+> _**"I had the privilege of working with Abdelrahman, whose expertise in Odoo implementation and project management was crucial to our project's success. His in-depth knowledge, combined with strong management skills, enabled our team to navigate complex requirements and deliver impactful solutions on time."**_
+
+---
+
+### ⭐ **Georges Ibrahim**  
+**📝 Role:** Head of Sales  
+**📅 Date:** July 31, 2024  
+**🧑 Relationship:** Abdelrahman’s client  
+> _**"I had the pleasure of working with Abdelrahman, an outstanding ERP developer, who consistently delivered exceptional results. His ability to meet deadlines is unparalleled, ensuring projects are completed on time without compromising quality. His accuracy and attention to detail are commendable, leading to reliable and robust solutions that have significantly benefited our operations."**_
+
+---
+
+### ⭐ **Mustafa Amin**  
+**📝 Role:** Executive Director at CLOUDMEN  
+**📅 Date:** August 9, 2024  
+**🧑 Relationship:** Managed Abdelrahman directly  
+> _"I had the pleasure of working with Abdelrahman on several projects, and their expertise and dedication truly stand out. Abdelrahman consistently delivered high-quality work, demonstrated strong problem-solving skills, and was always a reliable team player. I highly recommend Abdelrahman to any organization looking for a skilled and honest professional."_
+
+---
+
+### ⭐ **Mohammed Shaaban, MSc**  
+**📝 Role:** Business Analysis Team Lead  
+**📅 Date:** August 1, 2024  
+**🧑 Relationship:** Managed Abdelrahman directly  
+> _**"It is my pleasure to recommend Abdelrahman. He is an exceptionally honest employee with outstanding skills, particularly in loyalty and ownership. Abdelrahman consistently demonstrates reliability and dedication in his work. His proactive approach and attention to detail ensure that every project he undertakes is executed to the highest standards."**_
+
+---
+
+### ⭐ Ahmed Momtaz  
+**📝 Role:** Sr. Odoo Functional Consultant  
+**📅 Date:** August 18, 2024  
+**🧑 Relationship:** Worked with Abdelrahman on the same team  
+> _"Abdelrahman is a very polite person with a high level of practical experience."_
+
+---
+
+### ⭐ AML Gaber  
+**📝 Role:** Co-Founder at Yosterior Design Studio  
+**📅 Date:** August 10, 2024  
+**🧑 Relationship:** Worked with Abdelrahman on the same team  
+> _"I highly recommend Abdelrahman as a valuable addition to any company. He is extremely hardworking, capable of managing full projects excellently, flexible, and has a strong ability to address and resolve issues. He is trustworthy and dedicated to his work."_
+
+---
+
+### ⭐ Moqbel Elseaedy  
+**📝 Role:** Python Developer / ERP (Odoo) Software Engineer  
+**📅 Date:** August 7, 2024  
+**🧑 Relationship:** Worked with Abdelrahman but on different teams  
+> _"Abdelrahman has outstanding qualities as a professional. He possesses a calm demeanor and exceptional work ethics, which enable him to effectively absorb and address any problem that comes his way. Moreover, he is a fast learner."_
+
+---
+
+### ⭐ Mohamed El-Haddad  
+**📝 Role:** Software Engineer  
+**📅 Date:** August 2, 2024  
+**🧑 Relationship:** Worked with Abdelrahman on different teams  
+> _"I had the opportunity to work with Abdelrahman on multiple projects, and I can't recommend him highly enough. He is incredibly easy to work with, very accommodating, and trustworthy. His smooth handling of tasks and reliability made our collaboration seamless and enjoyable."_
+
+---
+
+### ⭐ Omar Khaled  
+**📝 Role:** Python Software Developer Engineer  
+**📅 Date:** August 1, 2024  
+**🧑 Relationship:** Worked with Abdelrahman on the same team  
+> _"One of the best Odoo implementors and business consultants I have ever worked with, especially for the Human Resources and operations sectors, as well as accounting."_
+
+---
+
+### ⭐ Sheeraz Shaikh  
+**📝 Role:** Performance Marketing Expert | Real Estate | Business Setup  
+**📅 Date:** August 1, 2024  
+**🧑 Relationship:** Abdelrahman’s client  
+> _"I had the pleasure of working with Abdelrahman on our Odoo CRM implementation. His expertise and professionalism are unmatched. Abdelrahman is not only highly skilled in his work but also extremely dedicated and detail-oriented, delivering high-quality results."_
+
+---
+
+### ⭐ Rim Ghandour  
+**📝 Role:** Senior Consultant, Deloitte Middle East  
+**📅 Date:** July 31, 2024  
+**🧑 Relationship:** Worked with Abdelrahman at different companies  
+> _"I worked with Abdelrahman on implementing Odoo software at Purpl. He was my go-to person, thoroughly introducing me to its features and guiding me through the setup process. Abdelrahman addressed all my questions and concerns with exceptional responsiveness and clear, timely solutions."_
+
+---
+
+### ⭐ Hasan Shamia  
+**📝 Role:** CTO  
+**📅 Date:** July 31, 2024  
+**🧑 Relationship:** Abdelrahman’s client  
+> _"Abdelrahman is the project manager for building and developing my ERP system. The work has been as good as I wanted it to be and it went smoothly. He added new things that improved the ERP system."_
+
+---
+
+### ⭐ ATTA UR REHMAN  
+**📝 Role:** Human Resources Manager / ERP Functional Consultant  
+**📅 Date:** July 31, 2024  
+**🧑 Relationship:** Worked with Abdelrahman on the same team  
+> _"Amazed by your knowledge and experience in software, especially in Odoo. Your accomplishments are a testament to your commitment and expertise."_
+
+---
+
+### ⭐ Somiaa Mahmoud  
+**📝 Role:** Senior UI/UX Designer  
+**📅 Date:** December 30, 2023  
+**🧑 Relationship:** Reported directly to Abdelrahman  
+> _"Abdelrahman was my direct manager at Byootan, a lighthouse in the tech world. He helped me grow in marketing and UI. His deep knowledge across fields makes him a treasure for any organization."_
+
+---
+
+### ⭐ Amr Gaber  
+**📝 Role:** Python | Odoo Certified | FastAPI  
+**📅 Date:** July 18, 2021  
+**🧑 Relationship:** Worked with Abdelrahman on the same team  
+> _"Abdelrahman is a hard-working and dedicated individual, an asset to any team he joins."_
+
+---
+
+
 ## 📫 Connect with Me
 
 - **Email**: [abdelrahman.byootan@outlook.com](mailto:abdelrahman.byootan@outlook.com)
