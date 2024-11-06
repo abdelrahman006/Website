@@ -32,7 +32,7 @@ Hello! I'm **Abdelrahman Mahmoud**, an experienced **ERP Project Manager**, **Te
 ---
 
 
-# 🚀 Abdelrahman's Comprehensive Project Portfolio
+# 🚀 Project Portfolio
 
 Welcome to my portfolio! This  presents a collection of ERP projects I've implemented across various industries, each crafted to enhance business efficiency and drive growth. Explore each section to see how I've delivered customized, high-impact solutions.
 
@@ -57,7 +57,7 @@ Welcome to my portfolio! This  presents a collection of ERP projects I've implem
 - **Website**: [Strata Manufacturing](https://www.strata.ae/)
 - **Overview**: Led a fully customized HR project for Strata Manufacturing, handling approximately 600 users.
 - **Key Responsibilities**: Acted as implementer and support lead, using agile project management and collaborating on sprints.
-- **Technologies**: Odoo 13 EE, Python
+- **Technologies**: Odoo, Python
 - **Modules**: Custom HR
 - **Challenges and Solutions**: Addressed customization needs through agile sprints and extensive feedback.
 - **Outcome**: Delivered an HR system that improved HR management, increased operational efficiency, and met high standards.
@@ -69,7 +69,7 @@ Welcome to my portfolio! This  presents a collection of ERP projects I've implem
 - **Website**: [Council of Saudi Chambers](https://www.csc.org.sa/)
 - **Overview**: Led the implementation of a management system to streamline the full management cycle.
 - **Key Responsibilities**: Project manager and implementer, managing system design, advanced configurations, and user training.
-- **Technologies**: Odoo 14 EE, Python
+- **Technologies**: Odoo, Python
 - **Modules**: Custom HR, Accounting, Custom Purchase, Custom Help Desk, Inventory
 - **Challenges and Solutions**: Tailored modules for HR and purchasing workflows, with extensive user training.
 - **Outcome**: Launched and supported, greatly enhancing operational efficiency.
