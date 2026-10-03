@@ -1,5 +1,7 @@
 title: Abdelrahman Mahmoud
-logo: /asset/img/profile.png
-description: ERP Project Leader | Tech Innovator | Entrepreneurship Mentor
-show_downloads: true
-theme: jekyll-theme-minimal
+description: Technology, Product & Digital Transformation Leader
+url: https://abdelrahman006.github.io
+baseurl: /Website
+exclude:
+  - review
+  - README.md
