@@ -32,4 +32,4 @@ This is a draft redesign, not a validated career record. Do not merge until the 
 Open index.html locally, or serve the repository with a static server. Review desktop/mobile rendering and confirm content. Merge only after review; the existing GitHub Pages setup should serve index.html from the configured root. GitHub Pages deployment itself must be checked after merge.
 
 ## LinkedIn update
-Education confirmed from profile: Cairo University, Bachelor’s degree in Accounting, 2006–2013. Ever Business Solutions is listed in Cairo, Egypt (the old portfolio said Dubai). No certifications were read; the certifications page failed with a network error.
+Education confirmed from profile: Cairo University, Bachelor’s degree in Accounting, 2006–2013. Ever Business Solutions is listed in Cairo, Egypt (the old portfolio said Dubai). Certifications were successfully read on retry: 9 distinct course titles added with issuer, issue date and credential link. Business Analysis Foundations appeared twice and is displayed once. These are course certificates, not professional licenses.
