@@ -8,11 +8,11 @@ This is a draft redesign, not a validated career record. Do not merge until the 
 - No new credentials, qualifications, customer counts, savings or attribution of business revenue are claimed.
 
 ## Confirmation needed
-1. Current employer, official title, exact start date, and Infolab end date. Confirm the historical Promate, Ever and Byootan dates.
+1. LinkedIn career chronology reviewed 3 October 2026: roles and dates are now recorded in LINKEDIN-SOURCE.md and the page. Infolab ended November 2024. Concurrent U-App, Asico, Injaz and Softspace roles remain separate; group relationships and any Director title still need discussion.
 2. Permission to name Injaz, Asico/Super CRM and U-App publicly; confirm product names, role/ownership and launch dates.
 3. Injaz: confirm platform scope, production status and OCR coverage. Validate 685 transactions; AED 2,343,075 classification; 40% paper, 30% processing-time and 80% complaint reductions. Validate Jan–Jun 2026 figures of 3,268 transactions and AED 8,711,508.95, including attribution. These metrics are omitted.
 4. Asico: confirm migration completion, users, production integrations and Super CRM scope. Validate $24K annual saving, $2K/month baseline and 12+ systems. These figures are omitted.
-5. U-App: confirm launch, web/mobile features, customer adoption and which localized features are live. WPS, MOHRE and bank/exchange connectors remain concepts unless confirmed.
+5. U-App: public launch announced for 26 October 2026 in a company post reposted on the profile. This supersedes the reconstruction’s ambiguous launched/production claim. Confirm any earlier internal rollout, web/mobile features, customer adoption and which localized features are live. WPS, MOHRE and bank/exchange connectors remain concepts unless confirmed.
 6. OCR: identify deployed extraction and verification capabilities; confirm accuracy and document coverage. Advanced analytics, bank-history and full POA verification are not marked delivered.
 7. Conversational AI: confirm Injaz bot launch/functions; distinguish agentic upgrades, voice pilots and live voice deployments.
 8. GCP: confirm completion date, migrated workloads, downtime, performance and cost changes.
@@ -30,3 +30,6 @@ This is a draft redesign, not a validated career record. Do not merge until the 
 
 ## Review workflow
 Open index.html locally, or serve the repository with a static server. Review desktop/mobile rendering and confirm content. Merge only after review; the existing GitHub Pages setup should serve index.html from the configured root. GitHub Pages deployment itself must be checked after merge.
+
+## LinkedIn update
+Education confirmed from profile: Cairo University, Bachelor’s degree in Accounting, 2006–2013. Ever Business Solutions is listed in Cairo, Egypt (the old portfolio said Dubai). No certifications were read; the certifications page failed with a network error.
