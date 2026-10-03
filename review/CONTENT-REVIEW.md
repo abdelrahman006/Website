@@ -16,7 +16,7 @@ This is a draft redesign, not a validated career record. Do not merge until the 
 6. OCR: identify deployed extraction and verification capabilities; confirm accuracy and document coverage. Advanced analytics, bank-history and full POA verification are not marked delivered.
 7. Conversational AI: confirm Injaz bot launch/functions; distinguish agentic upgrades, voice pilots and live voice deployments.
 8. GCP: confirm completion date, migrated workloads, downtime, performance and cost changes.
-9. Historical metrics: reconfirm Strata’s approximately 600 users (retained as original scope evidence), Byootan 400+ trainees / 500+ hours, Infolab 25% implementation-time reduction. Training metrics and time reduction are omitted from redesigned page.
+9. Historical metrics: reconfirm Strata’s approximately 600 users (now omitted pending confirmation), Byootan 400+ trainees / 500+ hours, Infolab 25% implementation-time reduction. Training metrics and time reduction are omitted from redesigned page.
 10. EHRC remains partial contribution and SAIB remains prepared for rollout. Confirm later status if changed.
 11. Confirm the existing email, portrait and historical client-name disclosure. Original testimonials remain in README but are not republished; exact wording and consent need validation.
 
@@ -33,3 +33,6 @@ Open index.html locally, or serve the repository with a static server. Review de
 
 ## LinkedIn update
 Education confirmed from profile: Cairo University, Bachelor’s degree in Accounting, 2006–2013. Ever Business Solutions is listed in Cairo, Egypt (the old portfolio said Dubai). Certifications were successfully read on retry: 9 distinct course titles added with issuer, issue date and credential link. Business Analysis Foundations appeared twice and is displayed once. These are course certificates, not professional licenses.
+
+## Hiring-focused refinement
+See VALIDATION.md for design, content and browser checks. The public-facing draft keeps metric uncertainty out of headline claims and preserves delivery caveats. The new professional profile is print-friendly, not a finalized CV.
